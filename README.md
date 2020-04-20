@@ -1,2 +1,2 @@
 # test-git
-git test
+Ceci est un repository git de test
